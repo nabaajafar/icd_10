@@ -1,0 +1,36 @@
+[
+ {
+  "default_value": null,
+  "doc_type": "Medical Code",
+  "docstatus": 0,
+  "doctype": "Property Setter",
+  "doctype_or_field": "DocField",
+  "field_name": "medical_code_standard",
+  "modified": "2022-11-15 18:14:06.371799",
+  "name": "Medical Code-medical_code_standard-default",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "property": "default",
+  "property_type": "Text",
+  "row_name": null,
+  "value": "ICD-10"
+ },
+ {
+  "default_value": null,
+  "doc_type": "Medical Code",
+  "docstatus": 0,
+  "doctype": "Property Setter",
+  "doctype_or_field": "DocField",
+  "field_name": "medical_code_standard",
+  "modified": "2022-11-15 18:14:24.919670",
+  "name": "Medical Code-medical_code_standard-read_only",
+  "parent": null,
+  "parentfield": null,
+  "parenttype": null,
+  "property": "read_only",
+  "property_type": "Check",
+  "row_name": null,
+  "value": "1"
+ }
+]
