@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include icd_10 *.css
+recursive-include icd_10 *.csv
+recursive-include icd_10 *.html
+recursive-include icd_10 *.ico
+recursive-include icd_10 *.js
+recursive-include icd_10 *.json
+recursive-include icd_10 *.md
+recursive-include icd_10 *.png
+recursive-include icd_10 *.py
+recursive-include icd_10 *.svg
+recursive-include icd_10 *.txt
+recursive-exclude icd_10 *.pyc
