@@ -5,7 +5,6 @@ with open("requirements.txt") as f:
 
 # get version from __version__ variable in icd_10/__init__.py
 from icd_10 import __version__ as version
-
 setup(
 	name="icd_10",
 	version=version,
